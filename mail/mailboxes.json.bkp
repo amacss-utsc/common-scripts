@@ -1,0 +1,9 @@
+{
+    "someone@amacss.org": [
+        "someone@gmail.com",
+    ],
+    "someone_else@amacss.org": [
+        "someone@amacss.org",
+        "someone_else@yahoo.com"
+    ]
+}
